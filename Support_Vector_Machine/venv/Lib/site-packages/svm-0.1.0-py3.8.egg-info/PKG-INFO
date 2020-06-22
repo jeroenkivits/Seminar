@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: svm
+Version: 0.1.0
+Summary: Version manager for Apache Spark
+Home-page: https://github.com/kirbs-/svm
+Author: Chris Kirby
+Author-email: kirbycm@gmail.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
